@@ -2,6 +2,8 @@
 <record_update table="sys_app">
     <sys_app action="INSERT_OR_UPDATE">
         <active>true</active>
+        <enforce_license>log</enforce_license>
+        <js_level/>
         <licensable>true</licensable>
         <logo/>
         <menu/>
@@ -24,6 +26,7 @@
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2016-01-04 19:22:56</sys_updated_on>
         <template/>
+        <trackable>true</trackable>
         <user_role/>
         <vendor/>
         <vendor_prefix/>
