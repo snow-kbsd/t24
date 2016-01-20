@@ -8,7 +8,7 @@
         <endpoint>sn_t25_ui page  7.do</endpoint>
         <html><![CDATA[<?xml version="1.0" encoding="utf-8" ?>
 <j:jelly trim="false" xmlns:j="jelly:core" xmlns:g="glide" xmlns:j2="null" xmlns:g2="null">
-
+bluhbluh
 </j:jelly>]]></html>
         <name>ui page  7</name>
         <processing_script/>
